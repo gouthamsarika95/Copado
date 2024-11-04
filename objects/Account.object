@@ -284,6 +284,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Copado_recommit__c</fullName>
+        <externalId>false</externalId>
+        <label>Copado recommit</label>
+        <length>71</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>CustomerPriority__c</fullName>
         <externalId>false</externalId>
         <label>Customer Priority</label>
