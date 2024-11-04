@@ -274,10 +274,10 @@
     </fields>
     <fields>
         <fullName>Copado_Learning__c</fullName>
-        <description>Learning purpose</description>
+        <description>Re committing operations</description>
         <externalId>false</externalId>
         <label>Copado Learning</label>
-        <length>30</length>
+        <length>49</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>

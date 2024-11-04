@@ -11,6 +11,8 @@
     <types>
         <members>Admin</members>
         <members>Custom%3A Sales Profile</members>
+        <members>MarketingProfile</members>
+        <members>Standard</members>
         <name>Profile</name>
     </types>
     <version>62.0</version>
