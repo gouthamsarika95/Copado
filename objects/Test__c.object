@@ -201,17 +201,6 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>Test3__c</fullName>
-        <externalId>false</externalId>
-        <label>Test3</label>
-        <precision>7</precision>
-        <required>false</required>
-        <scale>2</scale>
-        <trackTrending>false</trackTrending>
-        <type>Number</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>Test4_Gender__c</fullName>
         <externalId>false</externalId>
         <label>Test4 Gender</label>
