@@ -126,7 +126,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>TaskUtilTest</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
