@@ -3293,11 +3293,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Test__c.Test3__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Test__c.Test4_Gender__c</field>
         <readable>true</readable>
     </fieldPermissions>
