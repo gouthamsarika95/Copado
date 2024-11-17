@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Learning</members>
+        <members>Activity.Activity_ID__c</members>
+        <members>Event.Activity_ID__c</members>
+        <members>Task.Activity_ID__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Custom%3A Sales Profile</members>
+        <members>Custom%3A Support Profile</members>
+        <members>MarketingProfile</members>
+        <members>Standard</members>
         <name>Profile</name>
     </types>
     <version>62.0</version>
