@@ -2,12 +2,9 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Activity.Activity_ID__c</members>
+        <members>Event.Activity_ID__c</members>
+        <members>Task.Activity_ID__c</members>
         <name>CustomField</name>
-    </types>
-    <types>
-        <members>Event-Event Layout</members>
-        <members>Task-Task Layout</members>
-        <name>Layout</name>
     </types>
     <types>
         <members>Admin</members>
