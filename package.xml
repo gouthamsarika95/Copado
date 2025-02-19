@@ -1,15 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Event.Activity_ID__c</members>
-        <members>Task.Activity_ID__c</members>
+        <members>Account.AccountNumber</members>
+        <members>Account.AccountSource</members>
+        <members>Account.Active__c</members>
+        <members>Account.AnnualRevenue</members>
+        <members>Account.BillingAddress</members>
+        <members>Account.BillingGeocodeAccuracy</members>
+        <members>Account.CleanStatus</members>
+        <members>Account.Copado_Learning__c</members>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.DandbCompanyId</members>
+        <members>Account.Description</members>
+        <members>Account.DunsNumber</members>
+        <members>Account.Fax</members>
+        <members>Account.Industry</members>
+        <members>Account.Jigsaw</members>
+        <members>Account.JigsawCompanyId</members>
+        <members>Account.LastActivityDate</members>
+        <members>Account.MasterRecordId</members>
+        <members>Account.NaicsCode</members>
+        <members>Account.NaicsDesc</members>
+        <members>Account.Name</members>
+        <members>Account.NumberOfEmployees</members>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.OperatingHoursId</members>
+        <members>Account.OwnerId</members>
+        <members>Account.Ownership</members>
+        <members>Account.ParentId</members>
+        <members>Account.Phone</members>
+        <members>Account.PhotoUrl</members>
+        <members>Account.Rating</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
+        <members>Account.SLA__c</members>
+        <members>Account.ShippingAddress</members>
+        <members>Account.ShippingGeocodeAccuracy</members>
+        <members>Account.Sic</members>
+        <members>Account.SicDesc</members>
+        <members>Account.Site</members>
+        <members>Account.TickerSymbol</members>
+        <members>Account.Tradestyle</members>
+        <members>Account.Type</members>
+        <members>Account.UpsellOpportunity__c</members>
+        <members>Account.Website</members>
+        <members>Account.YearStarted</members>
+        <members>Test__c.Date_of_birth__c</members>
+        <members>Test__c.Email_ID__c</members>
+        <members>Test__c.First_Name__c</members>
+        <members>Test__c.Last_Name__c</members>
+        <members>Test__c.Test2__c</members>
+        <members>Test__c.Test3__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>Customer Community User</members>
-        <members>Read Only</members>
-        <members>Standard</members>
-        <name>Profile</name>
+        <members>Account</members>
+        <members>Case</members>
+        <members>Test__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Test_permission_set</members>
+        <name>PermissionSet</name>
     </types>
     <version>62.0</version>
 </Package>
