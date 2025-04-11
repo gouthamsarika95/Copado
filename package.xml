@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Event.Activity_ID__c</members>
-        <members>Task.Activity_ID__c</members>
-        <name>CustomField</name>
+        <members>WorkOrder-WorkOrder-Work Order Layout</members>
+        <name>Layout</name>
     </types>
-    <types>
-        <members>Customer Community User</members>
-        <members>Read Only</members>
-        <members>Standard</members>
-        <name>Profile</name>
-    </types>
-    <version>62.0</version>
+    <version>63.0</version>
 </Package>
